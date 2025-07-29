@@ -1,1 +1,1 @@
-# MaisLeituraSite
+# MaisLeituraSite é um site realizado pelos alunos do terceiro informática a-vespertino, o intuito é realizar um cartalogo digital da biblioteca Alan Figueiredo para melhor acesso tanto dos alunos quanto dos professores.
