@@ -1,2 +1,3 @@
 primeira coisa a fazer quando entra no repositorio é executar o comando "git pull" no terminal.
 ultima coisa a fazer antes de sair do codespace é dar "git add", "git commit" e "git push".
+rodar o BD "docker compose down && docker compose up -d ".
