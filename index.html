@@ -1,140 +1,122 @@
-<!doctype html>
-<html lang="pt-br">
+<!DOCTYPE html>
+<html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="shortcut icon" href="logo1.png" type="image/png" />
-    <title>+LeituraCetep</title>
+    <link rel="stylesheet" href="livrodetalhe.html">
+    <link rel="stylesheet" href="style.css">
+    <title>+Leitura - Início</title>
   </head>
-  <body
-    style="
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-    "
-  >
-    <!-- Cabeçalho -->
-    <header style="background-color: #fd5101; color: white; padding: 20px">
-      <div
-        style="
-          display: flex;
-          justify-content: space-between;
-          align-items: center;
-        "
-      >
+  <body>
+    <header class="main-header">
+      <div style="display: flex; align-items: center; gap: 20px;">
         <img
           src="+LEitura.png"
           alt="+LeituraCetep"
-          style="height: 80px; border-radius: 12px"
+          class="logo"
         />
-        <div style="display: flex; align-items: center">
-          <input
-            type="text"
-            placeholder="Buscar livros..."
-            style="
-              padding: 8px;
-              border-radius: 4px 0 0 4px;
-              border: none;
-              outline: none;
-            "
-          />
-          <button
-            style="
-              padding: 8px 12px;
-              border: none;
-              border-radius: 0 4px 4px 0;
-              background-color: #fff;
-              color: #fd5101;
-              font-weight: bold;
-              cursor: pointer;
-            "
-          >
-            Buscar
-          </button>
-        </div>
+        <nav>
+          <a href="#">Início</a>
+          <a href="#">Livros</a>
+          <a href="#">Contato</a>
+        </nav>
+      </div>
+
+      <div style="display: flex; align-items: center;">
+        <button class="sign-in-button">Entrar</button>
       </div>
     </header>
 
-    <!-- Boas-vindas -->
-    <section style="padding: 20px">
-      <h2>Bem-vinda ao +Leitura</h2>
-      <p>
-        O +Leitura é um projeto realizado pelos alunos do CETEP com o intuito de
-        deixar o acesso aos livros mais prático e acessível para todos. Aqui
-        você pode encontrar uma variedade de livros recomendados e retomar suas
-        leituras de forma fácil e rápida. Navegue pelas nossas seções, descubra
-        novas obras e aproveite a leitura!
-      </p>
-    </section>
-
-    <!-- Recomendações -->
-    <section style="padding: 20px">
-      <h3>📚 Recomendações para você</h3>
-      <div style="display: flex; gap: 20px; flex-wrap: wrap">
-        <div
-          style="
-            background: white;
-            padding: 10px;
-            border-radius: 8px;
-            width: 200px;
-          "
-        >
-          <img
-            src="https://m.media-amazon.com/images/I/61hNv-Pb9rL._SY466_.jpg"
-            alt="Os Caminhos de Carla"
-            style="width: 100%; height: auto"
-          />
-          <h4>Os Caminhos de Carla</h4>
-          <p>Neir Ilelis</p>
-        </div>
-
-        <div
-          style="
-            background: white;
-            padding: 10px;
-            border-radius: 8px;
-            width: 200px;
-          "
-        >
-          <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgguxfbCW_lJxjIJOhOm1GoZSIspTP6mhfcQ&s
-    "
-            alt="A Morena da Estação"
-            style="width: 100%; height: auto"
-          />
-          <h4>A Morena da Estação</h4>
-          <p>Ignácio De Loyola Brandão</p>
-        </div>
-
-        <div
-          style="
-            background: white;
-            padding: 10px;
-            border-radius: 8px;
-            width: 200px;
-          "
-        >
-          <img
-            src="https://covers.openlibrary.org/b/id/8231991-L.jpg"
-            alt="O Senhor dos Anéis"
-            style="width: 100%; height: auto"
-          />
-          <h4>O Senhor dos Anéis</h4>
-          <p>J.R.R. Tolkien</p>
-        </div>
+    <section class="hero-banner">
+      <div class="container">
+        <h1>Bem-vindo ao +Leitura</h1>
+        <p>Encontre sua próxima grande leitura aqui!</p>
       </div>
     </section>
-    <footer
-      style="
-        text-align: center;
-        padding: 16px 0;
-        background-color: #fd5101;
-        color: white;
-      "
-    >
-      &copy; 2024 Biblioteca Prof. Alan Jose Alcântra de Figueiredo - Todos os
-      direitos reservados.
+
+    <section class="top-books">
+      <div class="container">
+        <h2>Top Livros</h2>
+        <div class="books-grid">
+          <div class="book-card">
+            <img src="https://m.media-amazon.com/images/I/61hNv-Pb9rL._SY466_.jpg" alt="Capa do Livro" />
+            <div class="book-card-info">
+              <h3>Os Caminhos de Carla</h3>
+              <p>Neir Ilelis</p>
+              
+                <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
+            
+            </div>
+          </div>
+          <div class="book-card">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgguxfbCW_lJxjIJOhOm1GoZSIspTP6mhfcQ&s" alt="Capa do Livro" />
+            <div class="book-card-info">
+              <h3>A Morena da Estação</h3>
+              <p>Ignácio De Loyola Brandão</p>
+              
+                <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
+              
+            </div>
+          </div>
+          <div class="book-card">
+            <img src="https://img.skoob.com.br/Qwkw0x2hjOxeyzgDOW_LXg37RiA=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/404235/ESSE_NOSSO_PORTUGUES_1407595413B.jpg" alt="Capa do Livro" />
+            <div class="book-card-info">
+              <h3>Nesse Nosso Português</h3>
+              <p>João Ubaldo Ribeiro</p>
+              
+                <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
+            
+            </div>
+          </div>
+          <div class="book-card">
+            <img src="https://m.media-amazon.com/images/I/61Mqz7PsW6L._SY466_.jpg" alt="Capa do Livro" />
+            <div class="book-card-info">
+              <h3>Vésperas</h3>
+              <p>Adriana Lunardi</p>
+              
+                <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
+              
+            </div>
+          </div>
+          <div class="book-card">
+            <img src="https://m.media-amazon.com/images/I/91--EO7S94L._SY466_.jpg" alt="Capa do Livro" />
+            <div class="book-card-info">
+              <h3>Entre a Seca e a Garoa</h3>
+              <p>Ricardo Ramos</p>
+              
+                <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
+            
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="search-container" style="margin: 40px auto 0 auto; max-width: 400px; display: flex; justify-content: center;">
+        <input
+          type="text"
+          placeholder="Buscar livros..."
+          class="search-input"
+          style="flex: 1; padding: 10px; border-radius: 4px 0 0 4px; border: 1px solid #fd5101; outline: none; font-size: 1em;"
+        />
+        <button class="search-button" style="padding: 10px 20px; border-radius: 0 4px 4px 0; background-color: #fd5101; color: #fff; font-weight: bold; border: none; cursor: pointer; font-size: 1em; transition: background 0.2s;">
+          Buscar
+        </button>
+      </div>
+    </section>
+
+    <footer class="main-footer">
+      <div class="container">
+        <div class="footer-links">
+          <a href="#">Sobre Nós</a>
+          <a href="#">FAQ</a>
+        </div>
+        <div class="social-icons">
+            <a href="https://www.instagram.com/informativocetep/" target="_blank" rel="noopener" style="color: white; text-decoration: none;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" style="height: 60px; 
+            vertical-align: middle; border-radius: 12px;" />
+            </a>
+        </div>
+        <p style="margin-top: 15px;">&copy; 2024 +Leitura. Todos os direitos reservados.</p>
+      </div>
     </footer>
   </body>
 </html>
