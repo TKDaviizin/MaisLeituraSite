@@ -10,12 +10,12 @@ services:
   pga:
     image: dpage/pgadmin4:latest
     ports:
-      - "5050:80"
+      - '5050:80'
     environment:
       PGADMIN_DEFAULT_EMAIL: emailqualquer@gmail.com
       PGADMIN_DEFAULT_PASSWORD: user
     depends_on:
       - db
 volumes:
-    db_data:
-      driver: local
+  db_data:
+    driver: local
