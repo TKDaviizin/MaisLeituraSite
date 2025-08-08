@@ -1,426 +1,497 @@
 [
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51kvFqSIQdL._UF1000,1000_QL80_.jpg",
     "titulo": "Manjaleu",
     "autor": "Rosana Rios",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Esse Nosso Português",
     "autor": "João Ubaldo Ribeiro",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Questão de Pele",
     "autor": "Luiz Ruffato",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Melhor de Nelson Rodrigues",
     "autor": "Nelson Rodrigues",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Um Alpendre, Uma Rede, Um Açude",
     "autor": "Rachel de Queiroz",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Vésperas",
     "autor": "Adriana Lunardi",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Entre a Seca e a Garoa",
     "autor": "Ricardo Ramos",
     "genero": "Conto"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Teresa, que Esperava Uvas",
     "autor": "Monique Revilion",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "A Pátria de Chuteiras",
     "autor": "Nelson Rodrigues",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Primeiras Estórias",
     "autor": "João Guimarães Rosa",
     "genero": "Conto"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Contos e Crônicas para Ler na Escola",
     "autor": "João Ubaldo Ribeiro",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Uma Coisa de Cada Vez",
     "autor": "André Resende",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Histórias da Velha Totonia",
     "autor": "José Lins do Rego",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "88 Histórias: Contos e Minicontos",
     "autor": "",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Mar que Nos Abraça",
     "autor": "Marcus Vinicius Rodrigues",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Estas Estórias",
     "autor": "João Guimarães Rosa",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Tutameia",
     "autor": "João Guimarães Rosa",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Alexandre e Outros Heróis",
     "autor": "Graciliano Ramos",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Contos Tradicionais do Brasil",
     "autor": "Luis da Câmara Cascudo",
     "genero": "Conto"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Balé de Solombrax",
     "autor": "Eustáquio Gomes",
     "genero": "Romance"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Mãos de Cavalo",
     "autor": "Daniel Galera",
     "genero": "Romance"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Uruguai",
     "autor": "Basílio da Gama",
     "genero": "Romance"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Uma Janela em Copacabana",
     "autor": "Luiz Alfredo Garcia-Roza",
     "genero": "Romance"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Curral de Serras",
     "autor": "Alvina Gameiro",
     "genero": "Romance"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Túnel do Fim do Mundo",
     "autor": "Luiz Galdino",
     "genero": "Romance"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "A Hora e Vez de Augusto Matraga",
     "autor": "João Guimarães Rosa",
     "genero": "Romance"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Leite do Peito",
     "autor": "Regina Miranda",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Alfaiates: Paixão e Idealismo",
     "autor": "Benedito Teixeira Gomes",
     "genero": "Romance"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Cinzas do Norte",
     "autor": "Milton Hatoum",
     "genero": "Romance"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Reflexões Refletidas",
     "autor": "Neir Ilelis",
     "genero": "Romance"
   },
   {
     "quantidade": 143,
+   "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Os Caminhos de Carla",
     "autor": "Neir Ilelis",
     "genero": "Romance"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Balé do Pato",
     "autor": "Paulo Mendes Campos",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Primeiras Leituras",
     "autor": "Paulo Mendes Campos",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Filho do Reno",
     "autor": "Laura Bergallo",
     "genero": "Romance"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Caninos",
     "autor": "Bruno Berlendis de Carvalho",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Para Ler na Escola",
     "autor": "Carlos Heitor Cony",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Quimera",
     "autor": "Celeste Baumann e Lily Carroll",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "A Morena da Estação",
     "autor": "Ignácio Loyola Brandão",
     "genero": "Conto"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Man e o Brother",
     "autor": "Dilan Camargo",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "7x7 Contos Crus: Embora Este Não Seja um Bom Lugar para Nascer",
     "autor": "Ricardo Gomez",
     "genero": "Conto"
   },
   {
     "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Poesia Completa",
     "autor": "Carlos Drummond Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Alguma Poesia",
     "autor": "Carlos Drummond Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Eu Tudoamo: Antologia de Poemas",
     "autor": "Mario de Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Pérolas, Flores, Coração",
     "autor": "Aliandra",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Amores Diversos",
     "autor": "Pedro Bandeira",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Quarto de Costura",
     "autor": "Wania Amarante",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Dois ou Mais Corpos no Mesmo Espaço",
     "autor": "Arnaldo Antunes",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Não Pararei de Gritar",
     "autor": "Carlos De Assumpção",
     "genero": "Poesia"
   },
   {
     "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Palavrear",
     "autor": "Ricardo Aleixo",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Pauliceia Desviadora",
     "autor": "Mário de Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 7,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Sentimento do Mundo",
     "autor": "Carlos Drummond de Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 13,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "A Rosa do Povo",
     "autor": "Carlos Drummond de Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Antologia Poética",
     "autor": "Carlos Drummond de Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 6,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "A Última Tentação de Marx",
     "autor": "Armando Avena",
     "genero": "Literatura"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Antologia Poética",
     "autor": "Augusto dos Anjos",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Navio Negreiro",
     "autor": "Castro Alves",
     "genero": "Poema"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Bandeira",
     "autor": "Manuel Bandeira",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Poemas Reunidos",
     "autor": "Gerald Carneiro",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "As Rugosidades do Caos",
     "autor": "Luís Donlhnikoff",
     "genero": "Poesia"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Cobras em Compota",
     "autor": "Índigo",
     "genero": "Poesia"
   },
   {
     "quantidade": 4,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Entre as Junturas dos Ossos",
     "autor": "Vera Lucia de Oliveira",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Folhas Molhadas",
     "autor": "Beto Furquim",
     "genero": "Poesia"
   },
   {
     "quantidade": 4,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Poesia Reunida",
     "autor": "Orides Fontela",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Meus Poemas",
     "autor": "Jamile Pereira Figueiredo",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Para Onde Vamos é Sempre Ontem",
     "autor": "Ruy Espinheira Filho",
     "genero": "Poesia"
   },
   {
     "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Poetas de Macaúbas",
     "autor": "Alan José Figueiredo",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Alma",
     "autor": "Ystenil Figueiredo",
     "genero": "Poesia"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Cantares Amazônicos",
     "autor": "João de Jesus Paes Loureiro",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Eu Sou Mais Eu!",
     "autor": "Sylvia Orthof",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Leitura Comentada",
     "autor": "Mario de Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Caminhos da Vida na Poesia Brasileira",
     "autor": "Gregório de Matos a Machado de Assis",
     "genero": "Poesia"
@@ -428,23 +499,27 @@
   {
     "quantidade": 1,
     "titulo": "Pau Brasil",
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "autor": "Oswald De Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "José Paulo Paes",
     "autor": "Davi Arriguci Jr.",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Calunga",
     "autor": "Jorge de Lima",
     "genero": "Ficção"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Seleta em Prosa e Verso",
     "autor": "Carlos Drummond de Andrade",
     "genero": "Poesia"
@@ -452,173 +527,202 @@
   {
     "quantidade": 1,
     "titulo": "Monodrama",
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "autor": "Carlito Azevedo",
     "genero": "Poesia"
   },
   {
     "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Dos Vinte Anos e Poesias Diversas",
     "autor": "Lira",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Os Estatutos do Homem",
     "autor": "Thiago de Mello",
     "genero": "Poesia"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "n.d.a",
     "autor": "Arnaldo Antunes",
     "genero": "Poesia"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Poesias Completas",
     "autor": "Mario de Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Em Nome Da Vida",
     "autor": "Moacyr Félix",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Brás, Bexiga e Barra Funda & Laranja Da China",
     "autor": "A. Alcântara Machado",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Confissões de Narciso",
     "autor": "José Carlos Capinam",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Lenhador",
     "autor": "Catullo da Paixão Cearense",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Sentimento do Mundo",
     "autor": "Carlos Drummond de Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Salário do Medo",
     "autor": "Georges Arnaud",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Uruguai da Obra",
     "autor": "Basílio da Gama",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Pauliceia Desviadora",
     "autor": "Mário De Andrade",
     "genero": "Ficção"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "História Sinistras Da Literatura Brasileira",
     "autor": "Lainister De Oliveira Esteves",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Guido Carlos Levi Melodia Mortal",
     "autor": "Pedro Bandeira",
     "genero": "Ficção"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O Horror De Dunwich",
     "autor": "Lovecraft",
     "genero": "Literatura Juvenil"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Em Trânsito",
     "autor": "Alberto Martins",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Auto da Barca do Inferno",
     "autor": "Gil Vicente",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Confissões de Minas",
     "autor": "Carlos Drummond de Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Em Alguma Parte Alguma",
     "autor": "Ferreira Gullar",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Poemas de Ouvido",
     "autor": "Renato Rocha",
     "genero": "Poesia"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Coleção de Melhores Crônicas",
     "autor": "Manuel Bandeira",
     "genero": "Crônicas"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "50 Poemas",
     "autor": "Mário de Andrade",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Feliz Ano Velho",
     "autor": "Marcelo Rubens Pana",
     "genero": "Literatura"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "ABC ... Até Z!",
     "autor": "Bartolomeu Campos de Queirós",
     "genero": "Poesia"
   },
   {
     "quantidade": 4,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Primeiras Estórias",
     "autor": "Dácio Antônio de Castro",
     "genero": "Literatura"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Menina Do Mato",
     "autor": "Manoel De Barros",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Pequeno Dicionário de Palavras ao Vento",
     "autor": "Adriana Falcão",
     "genero": "Poesia"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Marquesa de Fantos",
     "autor": [
       "Clóvis Bulcão",
@@ -638,80 +742,1346 @@
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "No fundo do poço",
     "autor": "Buchi Emecheta",
     "genero": "Conto"
   },
   {
     "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Te pego na saída",
     "autor": "Fabrício Carpinejar",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Codinome Duda",
     "autor": "Marcelo Carneiro da Cunha",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "23 histórias de um viajante",
     "autor": "Marina Colasanti",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Manual do Plantio direto: técnicas e perspectivas",
     "autor": "Lucenio Arno Schultz",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Clássicos de verdade; muitos e lendas greco-romanas",
     "autor": "Ana Maria Machado",
     "genero": "Contos"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "O rinxinof e o imperador da China",
     "autor": "Hans Christian Andersen",
     "genero": "Contos"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Gotham Sampa City",
     "autor": "Eduardo Zugaib",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Chica, Sinhá",
     "autor": "Carlos Alberto de Carvalho",
     "genero": "Contos"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Leituras de escritor",
     "autor": "Ana Maria Machado",
     "genero": "Contos"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Violência e paixão",
     "autor": "Fernanda Bonassi",
     "genero": "Contos"
   },
   {
     "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Melhores contos",
     "autor": "Rubem Braga",
     "genero": "Conto"
   },
   {
     "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
     "titulo": "Contos de encantos, seduções e outros quebrantos",
     "autor": "Rogério Andrade Barbosa",
     "genero": "Contos"
+  },
+  {
+    "quantidade": 103,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Meu jeito certo de fazer tudo errado",
+    "autor": "Klara Castanha, Luiz Trigo",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A menina da vaca morta",
+    "autor": "Antônio Chaves",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A caminho da colina",
+    "autor": "Antônio Chaves",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Reflexões do baile",
+    "autor": "Antônio Callado",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Aquarelas do Brasil",
+    "autor": "Flavio Moreira da Costa",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Mulher no espelho",
+    "autor": "Helena Parente Cunha",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A sorte pulou na janela",
+    "autor": "Leo Cunha",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O risco do borbado",
+    "autor": "Autran Dourado",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Dia de são nunca á tarde",
+    "autor": "Roberto Drummond",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 4,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Homens e caranguejos",
+    "autor": "Josué de Castro",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O delicado abismo da loucura",
+    "autor": "Raimundo Carrero",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Quase memória",
+    "autor": "Carlos Heitor Cony",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A ilha",
+    "autor": "Flávio Carneiro",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 4,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Porto Calendário",
+    "autor": "Osório Alves de Castro",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 11,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Minha terra",
+    "autor": "Antônio Chaves",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Ópera dos mortos",
+    "autor": "Autran Dourado",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Sombra severa",
+    "autor": "Raimundo Carrero",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O campeonato",
+    "autor": "Flávio Carneiro",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O coronel e o lobisomem",
+    "autor": "José Cândido de Carvalho",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O grumete",
+    "autor": "Luiz Carlos Carneiro",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Bar Don Juan",
+    "autor": "Antônio Callado",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Fábulas entortadas",
+    "autor": "israel Jelin",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 4,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A madona de cedro",
+    "autor": "Antônio Callado",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Amar é uma conexão",
+    "autor": "Saulo Dourado",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 9,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Madalena",
+    "autor": "Cristiane Dantas",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 13,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Èramos seis",
+    "autor": "Maria José Dupré",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 7,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A ilha perdida",
+    "autor": "Maria José Dupré",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Ruínas y leveza",
+    "autor": "Julia Dantes",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 6,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Robinson Crusoé",
+    "autor": "Daniel Defoe",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "No presente",
+    "autor": "Márcio El-Jaick",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Sombras no asfalto",
+    "autor": "Luís Dill",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Nove noites",
+    "autor": "Bernado Carvalho",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A despepida de Fernando Pessoa",
+    "autor": "Antônio Chibante",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Um ninho de mafagafes cheio de mafagafinhos",
+    "autor": "José de Carvalho",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Caso contado à sombra do mercado",
+    "autor": "Mário Ribeiro da Cruz",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Bom-crioulo",
+    "autor": "Adolfo Caminha",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Jogo duplo",
+    "autor": "Silio Boccanera",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A filha do escritor",
+    "autor": "Gustavo Bernardo",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Capitão Mouro",
+    "autor": "Georges Bourdoukan",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O tesouro na rua",
+    "autor": "Cristovam Buarque",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Marcéu",
+    "autor": "Marco Bagno",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Cabo de guerra",
+    "autor": "Ivone Benedetti",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Calvário redentor",
+    "autor": "Antonieta V. Meyer, José Euclides",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O gosto do Apfelstrude",
+    "autor": "Gustavo Bernardo",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Casa dos Braga memória de infância",
+    "autor": "Rubem",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Os 7 falcões",
+    "autor": "Marcio Borges",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Grogue",
+    "autor": "Toni Brandão",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Crisântemo amarelo",
+    "autor": "Sérsi Bardari",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Transplante de menina",
+    "autor": "Tatiana Belinky",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Cadeiras proibidas",
+    "autor": "Ignácio de Loyola Brandão",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "S.O.S tartaruga marinhas",
+    "autor": "Rogério Andrade Barbosa",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Tudo tem seu preço",
+    "autor": "Linda Cook",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Coração sofrido",
+    "autor": "Jo Beverley",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A cama",
+    "autor": "Lygia Bojunga",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O meu amigo pintor",
+    "autor": "Lygia Bojunga",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Retrato de Carolina",
+    "autor": "Lygia Bojunga",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Paisagem",
+    "autor": "Lygia Bojunga",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Os colegas",
+    "autor": "Lygia Bojunga",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Querida",
+    "autor": "Lygia Bojunga",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "6 vezes Lucas",
+    "autor": "Lygia Bojunga",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Recado de primavera",
+    "autor": "Rubem Braga",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O copo vazio",
+    "autor": "Menalton Braff",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 4,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Não verás pais nenhum",
+    "autor": "Ignácio de Loyola Brandão",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A dama do velho chicho",
+    "autor": "Carlos Barbosa",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Casa aberta",
+    "autor": "Fernando Brant",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 10,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Leite derramado",
+    "autor": "Chico Buarque",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Budapeste",
+    "autor": "Chico Buarque",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Fantina cenas de escravidão",
+    "autor": "F.C Duarte Badaró",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Morada das lembranças",
+    "autor": "Daniella Bauer",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Demerara",
+    "autor": "Wagner G. Barreira",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A legião negra a luta dos Afro-Brasileiros na revolução constitucionalista de 1932",
+    "autor": "Oswaldo Faustino",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Mari.o",
+    "autor": "Ian Fraser",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Vai encarar",
+    "autor": "Manuel filho",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Se eu pudesse, Danilo, te levava para tomar banho de mar em Guarajuba",
+    "autor": "Breno Fernandes",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Quando somos todos quase",
+    "autor": "Manuel filho",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 5,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Sertão de dentro",
+    "autor": "Benedito Teixeira Gomes",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O anel de Nibelungos",
+    "autor": "A.S Franchini, Carmen Seganfredo",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Longe das aldeiras",
+    "autor": "Robertson Frizero",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Minha guerra alheia",
+    "autor": "Marina Colasanti",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Ladrão de histórias",
+    "autor": "Breno Fernandes",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 4,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Agosto",
+    "autor": "Rubem Fonseca",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Corpo vivo",
+    "autor": "Adonias Filho",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A comédia dos anjos",
+    "autor": "Adriana Falcão",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O selvagem da ópera",
+    "autor": "Rubem Fonseca",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 10,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Perigosos no mar",
+    "autor": "Aristides Fraga Lima",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Jardim de inverno",
+    "autor": "Zélia Gattai",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Os rios turvos",
+    "autor": "Luzilá Gonçalves Ferreira",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Capão pecado",
+    "autor": "Ferréz",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Luanda beira Bahia",
+    "autor": "Adonias Filho",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O largo da palma",
+    "autor": "Adonias Filho",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 10,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Os pequenos jangadeiros",
+    "autor": "Aristides Fraga Lima",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O forte",
+    "autor": "Adonias Filho",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Me ame como sou!",
+    "autor": "Lori Foster",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": "...",
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Tonico e carniça",
+    "autor": "José Rezende Filho, Assis Brasil",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 183,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Cafeína",
+    "autor": "Maurício Torres Assumpção",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 231,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "25 Contos de Machado de Assis",
+    "autor": "Nádia Batella Gotlib",
+    "genero": "Contos"
+  },
+  {
+    "quantidade": 181,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A esteção das pequenas coisas",
+    "autor": "João Anzanello Carrascoza",
+    "genero": "Literatura Brasileira"
+  },
+  {
+    "quantidade": 150,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Conversas sobre política",
+    "autor": "Rubem Alves",
+    "genero": "Conto"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Amor ã Brasileira",
+    "autor": "Caio Porfírio Carneiro e Guido Fidélis",
+    "genero": "Conto"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Os cus de Judas",
+    "autor": "Antônio Lobo Antunes",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Entretanto foi assim que aconteceu",
+    "autor": "Christian Carvalho Cruz",
+    "genero": "Reportagem"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Os melhores contos Brasileiros de todos os tempos",
+    "autor": "Flávio Moreira da Costa",
+    "genero": "Contos, literatura Brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Coleção melhores crônicas",
+    "autor": "Ignácio Loyola Brandão",
+    "genero": "Literatura Brasileira"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "50 crônicas escolhidas",
+    "autor": "Rubem Braga",
+    "genero": "Conto"
+  },
+  {
+    "quantidade": 4,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "História do menino que lia o mundo",
+    "autor": "Carlos Rodrigues Brandão",
+    "genero": "Conto"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Morte",
+    "autor": "Rubem Alves",
+    "genero": "Conto"
+  },
+  {
+    "quantidade": 10,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Os melhores contos de Lima Barreto",
+    "autor": "Lima Barreto",
+    "genero": "Contos"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Adeus conto de fadas",
+    "autor": "Leonardo Brasiliense",
+    "genero": "Contos"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Adeus conto de fadas - 2 Edição",
+    "autor": "Leonardo Brasiliense",
+    "genero": "Contos"
+  },
+  {
+    "quantidade": 4,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "200 crônicas escolhidas",
+    "autor": "Rubem Braga",
+    "genero": "Conto"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A rua do terror",
+    "autor": "Júlio Emílio Braz",
+    "genero": "Conto"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Melhores crônicas",
+    "autor": "Rubem Braga",
+    "genero": "Conto, crônica"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Procurando Assombração e outras histórias",
+    "autor": "Márica Batista",
+    "genero": "Conto"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Trago na boca a memória do meu fim",
+    "autor": "Ricardo Azevedo",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A pensão de dona Berta e outras histórias para jovens",
+    "autor": "Adriano Suassuna",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O mágico de verdade",
+    "autor": "Gustavo Bernardo",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 28,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Vozes da ficção narrativas do mundo do trabalho",
+    "autor": "Cláudia de A. Campos, Enid Y. Frederico, Walnice N. Galvão e Zenir C. Reis (org)",
+    "genero": "Ficção brasileira"
+  },
+  {
+    "quantidade": 147,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Aprendendo a viver",
+    "autor": "Clarice Lispecto",
+    "genero": "Conto"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Amostra bem-humorada",
+    "autor": "Millôr Fernandes",
+    "genero": "Conto"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Cânticos poéticos",
+    "autor": [
+      "Ana Paula",
+      "Borges",
+      "Edmundo Assis",
+      "Francisco Santos",
+      "João Brandão",
+      "Lucréia Rocha",
+      "Marcyane Pirajá Moreira",
+      "Maria do Carmo França",
+      "Maritza Novato",
+      "Myrian Fontal",
+      "Newton Silva",
+      "Raquel Machado",
+      "Roberto da Sena",
+      "Ruy Cesar Oliveira",
+      "Tania Rocha",
+      "Zínia Góes"
+    ],
+    "genero": "Poesia"
+  },
+  {
+    "quantidade": 52,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "A legião estrangeira",
+    "autor": "Clarice Lispecto",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Bela e a fera",
+    "autor": "Clarice Lispecto",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Água viva",
+    "autor": "Clarice Lispecto",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Laços de família",
+    "autor": "Clarice Lispecto",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 1,
+   "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg", 
+    "titulo": "O lustre",
+    "autor": "Clarice Lispecto",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Palavras de encantamento",
+    "autor": [
+      "Elias José",
+      "Elisa Lucinda",
+      "Ferreira Gullar",
+      "José Paulo Paes",
+      "Luiz Gama",
+      "Manoel de Barros",
+      "Mario Quintana",
+      "Olavo Bilac",
+      "Pedro Bandeira",
+      "Roseana Murray"
+    ],
+    "genero": "Poesia"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Derrocada",
+    "autor": "Dias Gomes",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Um chapéu para viagem",
+    "autor": "Zélia Gatan",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 5,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Anos de chumbo",
+    "autor": "Benedito Teixeira Gomes",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Orfãos do Eldorado",
+    "autor": "Milton Hatoum",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Irmãos para sempre",
+    "autor": "Chiara Lossani",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Muçurana",
+    "autor": "Mario Rizéro Leite",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O segundo Tempo",
+    "autor": "Michel Laub",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O vestido",
+    "autor": "Carlos Herculano Lopes",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 2,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Calunga",
+    "autor": "Jorge de Lima",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 3,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Anjos da Umbria",
+    "autor": "Sergio Maranhão",
+    "genero": "Romance"
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Cobra norato",
+    "autor": "Raul Bopp",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O livro das ignorãças",
+    "autor": "Manoel De Barros",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Poesia é não",
+    "autor": "Estrela Ruiz Leminski",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Meu quintal é maior do que o mundo",
+    "autor": "Manoel De Barros",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Manoel Bandeira",
+    "autor": "Fransciso de Assis Barbosa",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Caravela",
+    "autor": "Gabriel Bicalho",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "30 crônicas escolhidas",
+    "autor": "Manuel Bandeira",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Vou-me embora pra Pasárgada",
+    "autor": "Manuel Bandeira",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Memorial dos meninos",
+    "autor": "Rudinei Borges",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Vagalovnis",
+    "autor": "Antonio Barreto",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+   "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg", 
+    "titulo": "Estrela da vida inteira",
+    "autor": "Manuel Bandeira",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Só poema escolhido pelo autor",
+    "autor": "Manuel Bandeira",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Tratado geral das grandezas do ínfimo",
+    "autor": "Manuel Bandeira",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Macau",
+    "autor": "Paulo Henrique Britto",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Dicionário dos sonhos e outras histórias de cordel",
+    "autor": "J.Borges",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Poemas para jovens inquietos",
+    "autor": "Sergio Capparelli",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Dimão rosa",
+    "autor": "Flora Figueredo",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Malasaventuras: Safadezas do malasarte",
+    "autor": "Pedro Bandeira",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Onda 5",
+    "autor": "Euclides da Cunha",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Não poemas",
+    "autor": "Augusto de Campos",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Outro",
+    "autor": "Augusto de Campos",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Antologia estudantil",
+    "autor": "CETEP DA BACIA DO PARAMIRIM",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": " Prosa e verso para os 50 anos do CETEP",
+    "autor": "CETEP DA BACIA DO PARAMIRIM",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Belvedere",
+    "autor": "Chacal",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Desmineração",
+    "autor": "Euler Cruz",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Poemas dos becos de Goiás",
+    "autor": "Cora Coralina",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O retrato da vida",
+    "autor": "Antônio Chaves",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Esquimó",
+    "autor": "Fabrício Gorsaletti",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O tesouro da casa velha",
+    "autor": "Cora Coralina",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Vila boa de Goyaz",
+    "autor": "Cora Coralina",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Tigres no quintal",
+    "autor": "Sergio Capparelli",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "O rapaz do metrô",
+    "autor": "Sergio Capparelli",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Melhores poemas",
+    "autor": "Cora Coralina",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Quando os olhos mentem",
+    "autor": "Argilandes",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Florescência",
+    "autor": "Flora Figueredo",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Dois em um",
+    "autor": "Alice Ruiz",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Poemas escolhidos",
+    "autor": "Orides Fontela",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Ferreira Gullar",
+    "autor": "Alfredo Bosi",
+    "genero": "..."
+  },
+  {
+    "quantidade": 1,
+    "imagem": "https://m.media-amazon.com/images/I/51k1b2d8J6L._UF1000,1000_QL80_.jpg",
+    "titulo": "Poesia completa e prosa",
+    "autor": "Ferreira Gullar",
+    "genero": "..."
   }
 ]
