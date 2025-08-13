@@ -1,158 +1,271 @@
 body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        background-color: #f4f4f4;
-        color: #333;
-      }
-      .container {
-        max-width: 1200px;
-        margin: 0 auto;
-        padding: 20px;
-      }
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
 
-      /* Cabeçalho */
-      .main-header {
-        background-color: #fd5101;
-        color: white;
-        padding: 10px 20px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-      }
-      .main-header .logo {
-        height: 60px;
-        border-radius: 8px;
-      }
-      .main-header nav a {
-        color: white;
-        text-decoration: none;
-        margin: 0 15px;
-        font-weight: bold;
-      }
-      .main-header .search-container {
-        display: flex;
-        align-items: center;
-      }
-      .main-header .search-input {
-        padding: 8px;
-        border-radius: 4px 0 0 4px;
-        border: none;
-        outline: none;
-      }
-      .main-header .search-button {
-        padding: 8px 12px;
-        border: none;
-        border-radius: 0 4px 4px 0;
-        background-color: #fff;
-        color: #fd5101;
-        font-weight: bold;
-        cursor: pointer;
-      }
-      .main-header .sign-in-button {
-        background-color: #fff;
-        color: #fd5101;
-        border: none;
-        padding: 8px 15px;
-        border-radius: 4px;
-        font-weight: bold;
-        cursor: pointer;
-        margin-left: 15px; /* Adicionado para separar do botão de busca */
-      }
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
 
-      /* Seção de Destaque (Banner) */
-      .hero-banner {
-        background-color: #333;
-        color: white;
-        text-align: center;
-        padding: 80px 20px;
-        background-image: url('https://via.placeholder.com/1200x400/333333/FFFFFF?text=Seu+Banner+Aqui'); /* Substitua com uma imagem real */
-        background-size: cover;
-        background-position: center;
-      }
-      .hero-banner h1 {
-        font-size: 3em;
-        margin-bottom: 10px;
-      }
-      .hero-banner p {
-        font-size: 1.2em;
-      }
-      
-      /* Seção de Livros Populares */
-      .top-books {
-        padding: 40px 0;
-        text-align: center;
-      }
-      .top-books h2 {
-        font-size: 2em;
-        margin-bottom: 20px;
-      }
-      .books-grid {
-        display: flex;
-        justify-content: center;
-        gap: 20px;
-        flex-wrap: wrap; /* Permite que os cards quebrem a linha em telas menores */
-      }
-      .book-card {
-        background-color: white;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        width: 200px;
-        overflow: hidden;
-        text-align: left;
-        transition: transform 0.2s;
-        margin-bottom: 20px; /* Adicionado para espaçamento vertical entre as linhas de cards */
-      }
-      .book-card:hover {
-        transform: translateY(-5px);
-      }
-      .book-card img {
-        width: 100%;
-        height: 250px;
-        object-fit: cover;
-      }
-      .book-card-info {
-        padding: 15px;
-      }
-      .book-card-info h3 {
-        margin: 0 0 5px 0;
-        font-size: 1.2em;
-      }
-      .book-card-info p {
-        margin: 0;
-        color: #666;
-      }
-      .browse-books-button {
-        display: inline-block;
-        margin-top: 30px;
-        padding: 12px 25px;
-        background-color: #fd5101;
-        color: white;
-        text-decoration: none;
-        border-radius: 4px;
-        font-weight: bold;
-        transition: background-color 0.2s;
-      }
-      .browse-books-button:hover {
-        background-color: #e04a01;
-      }
+/* Modal Login */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
 
-      /* Rodapé */
-      .main-footer {
-        background-color: #333;
-        color: white;
-        padding: 20px;
-        text-align: center;
-      }
-      .main-footer .footer-links a {
-        color: white;
-        text-decoration: none;
-        margin: 0 10px;
-      }
-      .main-footer .social-icons {
-        margin-top: 15px;
-      }
-      .main-footer .social-icons a {
-        color: white;
-        font-size: 1.5em;
-        margin: 0 8px;
-      }
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; 
+    padding: 30px;
+    border: 1px solid #dbdbdb;
+    width: 400px;
+    max-width: 90%;
+}
+
+.close-button {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close-button:hover,
+.close-button:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.form-login .form-input {
+    margin-bottom: 15px; 
+}
+
+.form-login .form-input label {
+    display: block; 
+    margin-bottom: 5px; 
+    font-size: 0.9em;
+    color: #8e8e8e; 
+}
+
+.form-login .form-input input {
+    width: calc(100% - 20px); 
+    padding: 10px;
+    border: 1px solid #dbdbdb; 
+    border-radius: 3px;
+    font-size: 1em;
+    box-sizing: border-box; 
+}
+
+.form-login button {
+    background-color: #0095f6; 
+    color: white;
+    padding: 10px 0;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1em;
+    width: 100%; 
+    margin-top: 10px; 
+}
+
+.form-login button:hover {
+    background-color: #1877f2;
+}
+
+/* Cabeçalho */
+.main-header {
+  background-color: #fd5101;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-header .logo {
+  height: 60px;
+  border-radius: 8px;
+}
+
+.main-header nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+.main-header .search-container {
+  display: flex;
+  align-items: center;
+}
+
+.main-header .search-input {
+  padding: 8px;
+  border-radius: 4px 0 0 4px;
+  border: none;
+  outline: none;
+}
+
+.main-header .search-button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  background-color: #fff;
+  color: #fd5101;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.main-header #open-modal-btn {
+  background-color: #fff;
+  color: #fd5101;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+/* Seção de Destaque (Banner) */
+.hero-banner {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+  background-image: url('https://via.placeholder.com/1200x400/333333/FFFFFF?text=Seu+Banner+Aqui');
+  /* Substitua com uma imagem real */
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-banner h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+.hero-banner h1 span {
+  color: #fd5101;
+}
+
+.hero-banner p {
+  font-size: 1.2em;
+}
+
+/* Seção de Livros Populares */
+.top-books {
+  padding: 40px 0;
+  text-align: center;
+}
+
+.top-books h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.books-grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  /* Permite que os cards quebrem a linha em telas menores */
+}
+
+.book-card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 200px;
+  overflow: hidden;
+  text-align: left;
+  transition: transform 0.2s;
+  margin-bottom: 20px;
+  /* Adicionado para espaçamento vertical entre as linhas de cards */
+}
+
+.book-card:hover {
+  transform: translateY(-5px);
+}
+
+.book-card img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.book-card-info {
+  padding: 15px;
+}
+
+.book-card-info h3 {
+  margin: 0 0 5px 0;
+  font-size: 1.2em;
+}
+
+.book-card-info p {
+  margin: 0;
+  color: #666;
+}
+
+.book-card-info a {
+  border: 1px solid #555;
+  border-radius: 12px;
+  font-size: 14px;
+  padding: 3px 10px;
+  display: inline-block;
+  margin-top: 10px;
+
+
+}
+
+.browse-books-button {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 12px 25px;
+  background-color: #fd5101;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+.browse-books-button:hover {
+  background-color: #e04a01;
+}
+
+/* Rodapé */
+.main-footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.main-footer .footer-links a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.main-footer .social-icons {
+  margin-top: 15px;
+}
+
+.main-footer .social-icons a {
+  color: white;
+  font-size: 1.5em;
+  margin: 0 8px;
+}
