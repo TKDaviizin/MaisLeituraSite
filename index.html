@@ -1,174 +1,157 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="livrodetalhe.html">
-    <link rel="stylesheet" href="style.css">
 
-    <title>+Leitura - Início</title>
-  </head>
-  <body>
-    <header class="main-header">
-      <div style="display: flex; align-items: center; gap: 20px;">
-        <img
-          src="+LEitura.png"
-          alt="+LeituraCetep"
-          class="logo"
-        />
-        <nav>
-          <a href="#">Início</a>
-          <a href="#">Livros</a>
-          <a href="#">Contato</a>
-        </nav>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="livrodetalhe.html">
+  <link rel="stylesheet" href="style.css">
+
+  <title>+Leitura - Início</title>
+</head>
+
+<body>
+  <header class="main-header">
+    <div style="display: flex; align-items: center; gap: 20px;">
+      <img src="+LEitura.png" alt="+LeituraCetep" class="logo" />
+      <nav>
+        <a href="#">Início</a>
+        <a href="#">Livros</a>
+        <a href="#">Contato</a>
+      </nav>
+    </div>
+
+    <div style="display: flex; align-items: center;">
+      <a href="#" id="open-modal-btn">Entrar</a>
+    </div>
+  </header>
+
+  <section>
+    <div id="login-modal" class="modal">
+      <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <form class="form-login">
+          <h2>Login</h2>
+          <div class="form-input">
+            <label for="username">Usuário</label>
+            <input type="text" id="username" name="username" required />
+          </div>
+          <div class="form-input">
+            <label for="password">Senha</label>
+            <input type="password" id="password" name="password" required />
+          </div>
+          <button type="submit">Entrar</button>
+        </form>
       </div>
+    </div>
+  </section>
+  <section class="hero-banner">
+    <div class="container">
+      <h1>Bem-vindo ao <span id="typing-text"></span></h1>
+      <p>Encontre sua próxima grande leitura aqui!</p>
+    </div>
+  </section>
 
-     <div style="display: flex; align-items: center;">
-        <a href="#" id="open-modal-btn">Entrar</a>
-      </div>
-    </header> 
+  <section class="top-books">
+    <div class="container">
+      <h2>Top Livros</h2>
+      <div class="books-grid">
+        <div class="book-card">
+          <img src="https://m.media-amazon.com/images/I/61hNv-Pb9rL._SY466_.jpg" alt="Capa do Livro" />
+          <div class="book-card-info">
+            <h3>Os Caminhos de Carla</h3>
+            <p>Neir Ilelis</p>
 
-    <section>
-      <div id="login-modal" class="modal">
-        <div class="modal-content">
-          <span class="close-button">&times;</span>
-          <form class="form-login">
-            <h2>Login</h2>
-            <div class="form-input">
-              <label for="username">Usuário</label>
-              <input type="text" id="username" name="username" required/>
-            </div>
-            <div class="form-input">
-              <label for="password">Senha</label>
-              <input type="password" id="password" name="password" required/>
-            </div>
-            <button type="submit">Entrar</button>
-          </form>
+            <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
+
+          </div>
         </div>
-      </div>
-    </section>
-    <section class="hero-banner">
-      <div class="container">
-        <h1>Bem-vindo ao <span id="typing-text"></span></h1>
-        <p>Encontre sua próxima grande leitura aqui!</p>
+        <div class="book-card">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgguxfbCW_lJxjIJOhOm1GoZSIspTP6mhfcQ&s"
+            alt="Capa do Livro" />
+          <div class="book-card-info">
+            <h3>A Morena da Estação</h3>
+            <p>Ignácio De Loyola Brandão</p>
 
-<script>
-  const targetElement = document.getElementById('typing-text');
-  const text = "+Leitura";
-  const speed = 100;
-  let i = 0;
+            <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
 
-  function typeWriter() {
-    // Se ainda houver caracteres para digitar
-    if (i < text.length) {
-      targetElement.innerText += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, speed);
-    } 
-    // Se a digitação terminou, reinicia o processo
-    else {
-      // Espera 2 segundos antes de começar de novo
-      setTimeout(() => {
-        targetElement.innerText = ''; // Limpa o texto
-        i = 0; // Reseta o contador
-        typeWriter(); // Inicia a digitação novamente
-      }, 2000); 
-    }
-  }
-
-  // Inicia a função quando a página for completamente carregada
-  window.onload = function() {
-    typeWriter();
-  };
-</script>
-
-      </div>
-    </section>
-
-    <section class="top-books">
-      <div class="container">
-        <h2>Top Livros</h2>
-        <div class="books-grid">
-          <div class="book-card">
-            <img src="https://m.media-amazon.com/images/I/61hNv-Pb9rL._SY466_.jpg" alt="Capa do Livro" />
-            <div class="book-card-info">
-              <h3>Os Caminhos de Carla</h3>
-              <p>Neir Ilelis</p>
-              
-                <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
-            
-            </div>
           </div>
-          <div class="book-card">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgguxfbCW_lJxjIJOhOm1GoZSIspTP6mhfcQ&s" alt="Capa do Livro" />
-            <div class="book-card-info">
-              <h3>A Morena da Estação</h3>
-              <p>Ignácio De Loyola Brandão</p>
-              
-                <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
-              
-            </div>
+        </div>
+        <div class="book-card">
+          <img
+            src="https://img.skoob.com.br/Qwkw0x2hjOxeyzgDOW_LXg37RiA=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/404235/ESSE_NOSSO_PORTUGUES_1407595413B.jpg"
+            alt="Capa do Livro" />
+          <div class="book-card-info">
+            <h3>Nesse Nosso Português</h3>
+            <p>João Ubaldo Ribeiro</p>
+
+            <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
+
           </div>
-          <div class="book-card">
-            <img src="https://img.skoob.com.br/Qwkw0x2hjOxeyzgDOW_LXg37RiA=/200x/center/top/smart/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/404235/ESSE_NOSSO_PORTUGUES_1407595413B.jpg" alt="Capa do Livro" />
-            <div class="book-card-info">
-              <h3>Nesse Nosso Português</h3>
-              <p>João Ubaldo Ribeiro</p>
-              
-                <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
-            
-            </div>
+        </div>
+        <div class="book-card">
+          <img src="https://m.media-amazon.com/images/I/61Mqz7PsW6L._SY466_.jpg" alt="Capa do Livro" />
+          <div class="book-card-info">
+            <h3>Vésperas</h3>
+            <p>Adriana Lunardi</p>
+
+            <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
+
           </div>
-          <div class="book-card">
-            <img src="https://m.media-amazon.com/images/I/61Mqz7PsW6L._SY466_.jpg" alt="Capa do Livro" />
-            <div class="book-card-info">
-              <h3>Vésperas</h3>
-              <p>Adriana Lunardi</p>
-              
-                <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
-              
-            </div>
-          </div>
-          <div class="book-card">
-            <img src="https://m.media-amazon.com/images/I/91--EO7S94L._SY466_.jpg" alt="Capa do Livro" />
-            <div class="book-card-info">
-              <h3>Entre a Seca e a Garoa</h3>
-              <p>Ricardo Ramos</p>
-              
-                <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
-            
-            </div>
+        </div>
+        <div class="book-card">
+          <img src="https://m.media-amazon.com/images/I/91--EO7S94L._SY466_.jpg" alt="Capa do Livro" />
+          <div class="book-card-info">
+            <h3>Entre a Seca e a Garoa</h3>
+            <p>Ricardo Ramos</p>
+
+            <a href="livrodetalhe.html" style="color: rgb(0, 0, 0); text-decoration: none;">Ver Detalhes</a>
+
           </div>
         </div>
       </div>
-      <div class="search-container" style="margin: 40px auto 0 auto; max-width: 400px; display: flex; justify-content: center;">
-        <input
-          type="text"
-          placeholder="Buscar livros..."
-          class="search-input"
-          style="flex: 1; padding: 10px; border-radius: 4px 0 0 4px; border: 1px solid #fd5101; outline: none; font-size: 1em;"
-        />
-        <button class="search-button" style="padding: 10px 20px; border-radius: 0 4px 4px 0; background-color: #fd5101; color: #fff; font-weight: bold; border: none; cursor: pointer; font-size: 1em; transition: background 0.2s;">
-          Buscar
-        </button>
-      </div>
-    </section>
-
-    <footer class="main-footer">
-      <div class="container">
-        <div class="footer-links">
-          <a href="#">Sobre Nós</a>
-          <a href="#">FAQ</a>
+    </div>
+    <div class="search-container"
+      style="margin: 40px auto 0 auto; max-width: 400px; display: flex; justify-content: center;">
+      <input type="text" placeholder="Buscar livros..." class="search-input"
+        style="flex: 1; padding: 10px; border-radius: 4px 0 0 4px; border: 1px solid #fd5101; outline: none; font-size: 1em;" />
+      <button class="search-button"
+        style="padding: 10px 20px; border-radius: 0 4px 4px 0; background-color: #fd5101; color: #fff; font-weight: bold; border: none; cursor: pointer; font-size: 1em; transition: background 0.2s;">
+        Buscar
+      </button>
+    </div>
+  </section>
+  <section id="livros-page-incial">
+    <div class="text-livro">
+      <h2>Livros:</h2>
+    </div>
+    <div id="books-container">
         </div>
-        <div class="social-icons">
-            <a href="https://www.instagram.com/informativocetep/" target="_blank" rel="noopener" style="color: white; text-decoration: none;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" style="height: 60px; 
+
+    <div id="pagination-container">
+        </div>
+  </section>
+  <footer class="main-footer">
+    <div class="container">
+      <div class="footer-links">
+        <a href="#">Sobre Nós</a>
+        <a href="#">FAQ</a>
+      </div>
+      <div class="social-icons">
+        <a href="https://www.instagram.com/informativocetep/" target="_blank" rel="noopener"
+          style="color: white; text-decoration: none;">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png"
+            alt="Instagram" style="height: 60px; 
             vertical-align: middle; border-radius: 12px;" />
-            </a>
-        </div>
-        <p style="margin-top: 15px;">&copy; 2024 +Leitura. Todos os direitos reservados.</p>
+        </a>
       </div>
-    </footer>
-    <script src="modal.js"></script>
-  </body>
+      <p style="margin-top: 15px;">&copy; 2024 +Leitura. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+  <script src="modal.js"></script>
+  <script src="span-animation.js"></script>
+  <script src="livros.js"></script>
+</body>
+
 </html>
